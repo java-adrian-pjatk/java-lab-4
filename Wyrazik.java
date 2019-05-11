@@ -1,3 +1,8 @@
+// autorzy Adrian Witkowski
+//         Filip Bianga
+// data wykonania 8.05.2019
+// cel: zad6i7 - support
+
 public class Wyrazik
 {
     public String slowo;
