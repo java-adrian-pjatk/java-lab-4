@@ -33,9 +33,7 @@ public class Point {
         this.y = y;
     }
 
-    public float getXY() {
-        return y;
-    }
+    public float[] getXY = (x,y);
 
     public void setXY(float x, float y) {
         this.x = x;
